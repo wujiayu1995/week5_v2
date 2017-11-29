@@ -1,0 +1,24 @@
+* {margin: 0;
+   padding: 0;}
+
+.blue { background-color: blue; }
+
+.red { background-color: red; }
+
+.orange { background-color: orange; }
+
+.green { background-color: green; }
+
+.pink { background-color: pink; }
+
+.purple { background-color: purple; }
+
+.yellow { background-color: yellow; }
+
+.black { background-color: black; }
+
+.float section {
+  width: 4rem;
+  height: 4rem;
+  margin: 2rem;
+}
